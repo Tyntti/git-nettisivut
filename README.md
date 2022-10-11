@@ -1,5 +1,5 @@
-# Git-nettisivut
-Git/Github-demoilua kokeilua nettisivujen kanssa
+# Git/Github-demoilua
+Kokeillaan nettisivujen tekemistä
 
 ## Ominaisuuslista (features)
 
