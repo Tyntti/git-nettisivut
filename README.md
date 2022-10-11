@@ -1,5 +1,5 @@
 # Git-nettisivut
-Git kokeilua nettisivujen kanssa
+Git/Github-demoilua kokeilua nettisivujen kanssa
 
 ## Ominaisuuslista (features)
 
@@ -8,3 +8,5 @@ Git kokeilua nettisivujen kanssa
 * Bootstrap mukaan
 * Kissakuva etusivulle
 * Linkki Xamkkin sivuille
+
+---
